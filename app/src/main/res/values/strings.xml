@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Valiutos keitykla</string>
+    <string name="convert">Konvertuoti</string>
+    <string name="amount">Norima konvertuoti suma</string>
+    <string name="clear">Pratrinti</string>
+    <string name="initial_sum">Pradinė suma:</string>
+    <string name="value_eur">1000 EUR</string>
+    <string name="value_usd">0 USD</string>
+    <string name="value_jpy">0 JPY</string>
+    <string name="hardcoded_shit">Komisinis mokestis - 0 EUR. (nemokamai)</string>
+    <string name="enter_value">Turite įvesti sumą</string>
+    <string name="conversion_from">"Jūs konvertavote:&#032;"</string>
+    <string name="to">"&#032;to&#032;"</string>
+    <string name="error">"Klaida:&#032;"</string>
+    <string name="not_enough">"Insufficient funds"</string>
+    <string name="run_no_internet">"Turite paleisti bent kartą su interneto prieiga"</string>
+    <!--<string name="switch_currencies">Switch</string>-->
+    <string name="triesLeft">triesLeft</string>
+    <string name="insufficient">Nepakanka lėšų</string>
+    <string name="commission">Komisinis mokestis</string>
+
+</resources>
